@@ -1,0 +1,14 @@
+node_modules/
+.DS_Store
+.env
+*.log
+*.env.local
+*.env.development.local
+*.env.test.local
+*.env.production.local
+coverage/
+dist/
+build/
+.vscode/
+.mocharc.json
+.DS_Store
